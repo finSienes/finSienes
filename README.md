@@ -37,3 +37,5 @@ I'm interested in opportunities where I can combine my operations experience wit
 ---
 
 *I believe in learning by building, documenting what works, and improving one project at a time.*
+
+I'm open to remote, project-based opportunities involving workflow automation, data cleanup, software testing, and operational support.
